@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications
+
+== Under Review
+- S. Snyder, *P. Zhao* and N. Hovakimyan. L1 adaptive control for linear parameter-varying systems with application to a VTOL aircraft. Submitted to Aerospace Science and Technology, 2020.
+- *P. Zhao*, S. Snyder, N. Hovakimyan and C. Cao. [https://arxiv.org/abs/2010.04600 Robust adaptive control of linear parameter- varying systems with unmatched uncertainties]. Submitted to Automatica, arXiv:2010.04600, 2020. 
+== Journal articles
+- Y. Mao, H. Jafarnejadsani, *P. Zhao*, E. Akyol and N. Hovakimyan. Novel stealthy attack and defense strategies for networked control systems. IEEE Transactions on Automatic Control, 65(9): 3847–3862, 2020. 
+- A. Alizadegan, *P. Zhao*, R. Nagamune and M. Chiao. Experimental validation of a robust H∞ control method on miniaturized optical image stabilizer prototypes. Journal of Dynamic Systems, Measurement, and Control, 142(12): 124501, 2020. 
+- *P. Zhao* and R. Nagamune. Switching linear parameter-varying control with improved local performance and optimized switching surfaces. International Journal of Robust and Nonlinear Control, 2018, 28: 3403–3421. 
+- *P. Zhao*, R. Nagamune and M. Chiao. Multiple parameter-dependent robust control of minia- turized optical image stabilizers. Control Engineering Practice, 2018, 76: 1–11. 
+- A. Alizadegan, *P. Zhao*, R. Nagamune and M. Chiao. Robust H∞ control of miniaturized optical image stabilizers against product variabilities. Control Engineering Practice, 80: 70–82, 2018. 
+- *P. Zhao* and R. Nagamune. Switching LPV controller design under uncertain scheduling pa- rameters. Automatica, 2017, 76: 243–250. 
+- *P. Zhao* and S. Wang. Grey-box modeling of hydraulic servo system based on ODE parameter identification (in Chinese). Acta Aeronautica et Astronautica Sinica, 2013, 34(1): 187–196. 
+- X. Wang, S. Wang, *P. Zhao*. Adaptive fuzzy torque control of passive torque servo systems based on small gain theorem and input-to-state stability. Chinese Journal of Aeronautics, 2012, 25(6): 906–916. 
+== Book chapter 
+- K. Yuan, A. Alizadegan, *P. Zhao*, R. Nagamune, J. Chu, S. Park and M. Chiao, Design, fabrication, and  robust control of miniaturized optical image stabilizers," Advanced Mechatronics and MEMS Devices - II, Dan Zhang and Bin Wei (eds.), Springer International Publishing Switzerland, Chapter 28, pp. 189–207, 2017.
+== Conference papers
+- *P. Zhao*, Y. Mao, C. Tao, N. Hovakimyan and X. Wang. [https://arxiv.org/abs/2010.04699 Adaptive robust quadratic programs using control Lyapunov and barrier functions]. Accepted by 59th IEEE Conference on Decision and Control, arXiv:2010.04699, 2020. 
+- A. Gahlawat, *P. Zhao*, A. Patterson, N. Hovakimyan and E. A. Theodorou.  L1-GP: L1 adaptive control with Bayesian learning. 2nd Conference on Learning for Dynamics and Control, Proceedings of Machine Learning Research, vol. 120:1–12, 2020. 
+- H.-J. Yoon, *P. Zhao*, C. Tao, C. Widdowson, R. Wang, N. Hovakimyan and E. Theodorou. Socially aware motion planning for a flying robot with model predictive path integral control. Pro- ceedings of Algorithms and Architectures for Learning-in-the-Loop Systems in Autonomous Flight workshop, International Conference on Robotics and Automation, 2019. 
+- Y. Mao, H. Jafarnejadsani, *P. Zhao*, E. Akyol and N. Hovakimyan. Detectability of intermittent zero-dynamics attack in networked control systems. Proceedings of the 58th IEEE Conference on Decision and Control, pp. 5605-5610, 2019. 
+- *P. Zhao* and R. Nagamune. Switching LPV control of a floating offshore wind turbine on a semi- submersible platform. Proceedings of IEEE 28th International Symposium on Industrial Electronics, pp. 664-669, 2019. 
+- *P. Zhao* and R. Nagamune. Discrete-Time State-Feedback Switching LPV Control with Sepa- rate Lyapunov Functions for Stability and Local Performance. Proceedings of American Control Conference, pp. 2023–2028, 2018. 
+- *P. Zhao* and R. Nagamune. Optimal switching surface design for switching LPV control and its application to air-fuel ratio control of an automotive engine. Proceedings of IEEE Conference on Control Technology and Applications (CCTA), pp. 898–903, 2017. 
+- *P. Zhao* and R. Nagamune. Optimal switching surface design for state-feedback switching LPV control. Proceedings of American Control Conference, pp. 817–822, 2015. 
+- *P. Zhao*, A. Alizadegan, R. Nagamune and M. Chiao. Robust control of large-scale prototypes for miniaturized optical image stabilizers with product variations. Proceedings of SICE Annual Conference, pp. 925–930, 2015. 
+- A. Alizadegan, *P. Zhao*, R. Nagamune and M. Chiao. Modeling and robust control of minia- turized magnetically-actuated optical image stabilizers. Proceedings of 2016 IEEE International Conference on Advanced Intelligent Mechatronics, pp. 846–851, 2016. 
+- *P. Zhao*, S. Wang, X. Li and B. Zhang. A novel method of parameter identification of nonlinear electro-hydraulic servo systems. Proceedings of 2011 International Conference on Fluid Power and Mechatronics, pp. 547-551, 2011. 

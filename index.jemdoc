@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}
+= Pan Zhao 
+
+~~~
+{}{img_left}{zhao.jpeg}{alt text}{}{12%}{} <!-- 302.4px 403.2 px-->
+*Pan Zhao* \n
+Postdoctoral Reseacher \n 
+[http://mechse.illinois.edu/ Department of Mechanical Science and Engineering] \n
+[https://illinois.edu/ University of Illinois at Urbana-Champaign]  \n
+
+Office: Room 264, Computing Applications Building\n
+Address: 605 E Springfield Ave, Champaign, IL 61820\n
+E-mail: panzhao2@illinois.edu Email #[https://github.com/boranzhao Github]
+~~~
+
+== About me 
+I am a postdoc in the Department of Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign, advised by Prof. [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Naira Hovakimyan].  I was a PhD student in the Department of Mechanical Engineering at the University of British Columbia, Vancouver, BC, Canada, from 2013 to 2018, where I was supervised by Prof. [https://mech.ubc.ca/ryozo-nagamune/ Ryozo Nagamune] and Prof. [https://mech.ubc.ca/mu-chiao/ Mu Chiao]. I have also been very fortunate to work with Prof. [http://shi.buaa.edu.cn/wangshaoping/index.htm Shaoping Wang] during my master's studies at Beihang University from 2008 to 2013.   
+
+== Research Interests 
+My research interests lie in the intersection of *control*, *machine learning* and *robotics*.  In particular, I am interested in developing control, planning and learning algorithms to ensure safe and efficient operation of robotic and autonomous systems in unknown and unpreditable environments. 
+
+== Education 
+- Ph.D., Department of Mechanical Engineering, *University of British Columbia*, Vancouver, Canada,  Sep 2018
+- M.S., School of Automation Science and Electric Engineering, *Beihang University*, Beijing, China,  Jan 2012
+- B.S., School of Automation Science and Electric Engineering, *Beihang University*, Beijing, China,  Jul 2009
+
+
