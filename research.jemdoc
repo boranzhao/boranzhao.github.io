@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{research.html}
+= Selected Projects
+
+== Adaptive control for learn-to-fly
+Learn-to-Fly  aims to reduce or eliminate the need for ground-based aero-dynamic modeling in favor of in-flight modeling and control law determination. At the initial stage of the model learning process, large uncertainties inevitably exist. To stabilize the aerial vehicles in the presence of the large uncertainties, we leverage and extend the $\mathcal{L}_1$ adaptive control architecture to allow for switched nominal/desired dynamics, as a result of periodic update of the learned model. The framework is validated by flight tests on UAVs.
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CeaOeFUCxVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
+Ref: S. Snyder, *P. Zhao** and N. Hovakimyan.  Adaptive control for Learn-to-Fly validated by flighttests, /in preparation/.
+
+
+== Reinforcement learning for optimizing take-over requests in automated vehicles
+For automated vehicles with Level 3 automation, a driver stills need to take over control of the vehicles when there are some critical situations beyond the capacity of the autonomous driving system. In such cases, a take-over request (TOR) should be issued to alert the driver.  
+To accommodate the differences among drivers e.g. in response time and driving preferences, we explored applying reinforcement learning to improve the TOR so that the false alarm rate can be guaranteed.
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wOR_Y-YX9oQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
