@@ -7,7 +7,11 @@ Learn-to-Fly  aims to reduce or eliminate the need for ground-based aero-dynamic
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CeaOeFUCxVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
-Ref: S. Snyder, *P. Zhao** and N. Hovakimyan.  Adaptive control for Learn-to-Fly validated by flighttests, /in preparation/.
+Ref: S. Snyder, *P. Zhao** and N. Hovakimyan.  Adaptive control for Learn-to-Fly validated by flight tests, /in preparation/.
+
+== Robust and gain-scheduled control of miniaturized optical image stabilizers subject to product variations
+In this project, robust and gain-scheduled control methods are explored for miniaturized optical image stabilizers to deal with the inevitable product variations. These methods were experimentally validated on both large-scale and small-scale prototypes. 
+
 
 
 == Reinforcement learning for optimizing take-over requests in automated vehicles
