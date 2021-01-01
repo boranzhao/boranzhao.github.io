@@ -1,19 +1,25 @@
 # jemdoc: menu{MENU}{research.html}
 = Selected Projects
 
-== Adaptive control for learn-to-fly
+== Adaptive control for Learn-to-Fly
 Learn-to-Fly  aims to reduce or eliminate the need for ground-based aero-dynamic modeling in favor of in-flight modeling and control law determination. At the initial stage of the model learning process, large uncertainties inevitably exist. To stabilize the aerial vehicles in the presence of the large uncertainties, we leverage and extend the $\mathcal{L}_1$ adaptive control architecture to allow for switched nominal/desired dynamics, as a result of periodic update of the learned model. The framework is validated by flight tests on UAVs.
 ~~~
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CeaOeFUCxVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
-Ref: S. Snyder, *P. Zhao** and N. Hovakimyan.  Adaptive control for Learn-to-Fly validated by flight tests, /in preparation/.
+References 
+- S. Snyder, *P. Zhao** and N. Hovakimyan.  Adaptive control for Learn-to-Fly validated by flight tests, /in preparation/.
 
-== Robust and gain-scheduled control of miniaturized optical image stabilizers subject to product variations
+== Robust and gain-scheduled control of miniaturized optical image stabilizers (OISs)
 In this project, robust and gain-scheduled control methods are explored for miniaturized optical image stabilizers to deal with the inevitable product variations. These methods were experimentally validated on both large-scale and small-scale prototypes. 
-
-
-
+~~~
+<img src="https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/OIS-ExpSetup.png?raw=true" alt="Experimental setup with the large-scale prototype" style="width:560px;height:345px;" >
+~~~
+References
+- A. Alizadegan, P. Zhao, R. Nagamune and M. Chiao. Experimental validation of a robust $H_\infty$ control method on miniaturized optical image stabilizer prototypes. /Journal of Dynamic Systems, Measurement, and Control/, 142(12): 124501, 2020. 
+- P. Zhao, R. Nagamune and M. Chiao. Multiple parameter-dependent robust control of minia- turized optical image stabilizers. /Control Engineering Practice/, 2018, 76: 1–11. 
+- A. Alizadegan, P. Zhao, R. Nagamune and M. Chiao. Robust $H_\infty$ control of miniaturized optical image stabilizers against product variabilities. /Control Engineering Practice/, 80: 70–82, 2018. 
+- P. Zhao, A. Alizadegan, R. Nagamune and M. Chiao. Robust control of large-scale prototypes for miniaturized optical image stabilizers with product variations. /Proceedings of SICE Annual Conference/, pp. 925–930, 2015. 
 == Reinforcement learning for optimizing take-over requests in automated vehicles
 For automated vehicles with Level 3 automation, a driver stills need to take over control of the vehicles when there are some critical situations beyond the capacity of the autonomous driving system. In such cases, a take-over request (TOR) should be issued to alert the driver.  
 To accommodate the differences among drivers e.g. in response time and driving preferences, we explored applying reinforcement learning to improve the TOR so that the false alarm rate can be guaranteed.
