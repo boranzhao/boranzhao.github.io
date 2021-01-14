@@ -18,6 +18,7 @@
 == Conference papers
 - *P. Zhao*, Y. Mao, C. Tao, N. Hovakimyan and X. Wang. [https://arxiv.org/abs/2010.04699 Adaptive robust quadratic programs using control Lyapunov and barrier functions]. Accepted by /59th IEEE Conference on Decision and Control/, arXiv:2010.04699, 2020. 
 - A. Gahlawat, *P. Zhao*, A. Patterson, N. Hovakimyan and E. A. Theodorou.  L1-GP: L1 adaptive control with Bayesian learning. /2nd Conference on Learning for Dynamics and Control/, /Proceedings of Machine Learning Research/, vol. 120:1–12, 2020. 
+- S. Snyder, *P. Zhao* and N. Hovakimyan. L1 adaptive control for switching reference systems: Application to flight control. /IFAC-PapersOnLine/, 52(16), pp.718-723.
 - H.-J. Yoon, *P. Zhao*, C. Tao, C. Widdowson, R. Wang, N. Hovakimyan and E. Theodorou. Socially aware motion planning for a flying robot with model predictive path integral control. /Proceedings of Algorithms and Architectures for Learning-in-the-Loop Systems in Autonomous Flight workshop/, /International Conference on Robotics and Automation/, 2019. 
 - Y. Mao, H. Jafarnejadsani, *P. Zhao*, E. Akyol and N. Hovakimyan. Detectability of intermittent zero-dynamics attack in networked control systems. /Proceedings of the 58th IEEE Conference on Decision and Control/, pp. 5605-5610, 2019. 
 - *P. Zhao* and R. Nagamune. Switching LPV control of a floating offshore wind turbine on a semi- submersible platform. /Proceedings of IEEE 28th International Symposium on Industrial Electronics/, pp. 664-669, 2019. 
