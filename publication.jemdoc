@@ -1,10 +1,8 @@
 # jemdoc: menu{MENU}{publication.html}
 = Publications
 
-== In preparation
-- S. Synder, *P. Zhao*\* and N. Hovakimyan. L1 adaptive control for Learn-to-Fly, /in preparation/, 2021. (\* denotes the corresponding author)
-
 == Under review
+- S. Synder, *P. Zhao*\* and N. Hovakimyan. L1 adaptive control for Learn-to-Fly, submitted to /Journal of Guidance, Control, and Dynamics/, 2021. (\* denotes the corresponding author)
 - *P. Zhao*, S. Snyder, N. Hovakimyan and C. Cao. [https://arxiv.org/abs/2010.04600 Robust adaptive control of linear parameter-varying systems with unmatched uncertainties]. Submitted to /Automatica/, arXiv:2010.04600, 2020. 
 == Journal papers
 - S. Snyder, *P. Zhao* and N. Hovakimyan. [https://www.sciencedirect.com/science/article/pii/S1270963821001310  Adaptive control for linear parameter-varying systems with application to a VTOL aircraft]. /Aerospace Science and Technology/, 2020.
@@ -18,8 +16,8 @@
 - X. Wang, S. Wang, *P. Zhao*. Adaptive fuzzy torque control of passive torque servo systems based on small gain theorem and input-to-state stability. /Chinese Journal of Aeronautics/, 25(6): 906–916, 2012. 
 == Book chapter 
 - K. Yuan, A. Alizadegan, *P. Zhao*, R. Nagamune, J. Chu, S. Park and M. Chiao, Design, fabrication, and  robust control of miniaturized optical image stabilizers," /Advanced Mechatronics and MEMS Devices - II/, Dan Zhang and Bin Wei (eds.), Springer International Publishing Switzerland, Chapter 28, pp. 189–207, 2017.
-== Conference papers
-- Y. Cheng\*, *P. Zhao*\*, M. Gandhi, B. Li, E. Theodorou and N. Hovakimyan. L1-RL: Robustifying reinforcement learning policies with L1 adaptive control, in /Workshop on Safe Robot Control with Learned Motion and Environment Models/, /International Conference on Robotics and Automation/, 2021. (\* denotes equal contributions.)
+== Conference/Workshop papers
+- Y. Cheng\*, *P. Zhao*\*, M. Gandhi, B. Li, E. Theodorou and N. Hovakimyan. Robustifying reinforcement learning policies with L1 adaptive control, in /Workshop on Safe Robot Control with Learned Motion and Environment Models/, /International Conference on Robotics and Automation/, 2021. (\* denotes equal contributions.)
 - *P. Zhao*, Y. Mao, C. Tao, N. Hovakimyan and X. Wang. [https://arxiv.org/abs/2010.04699 Adaptive robust quadratic programs using control Lyapunov and barrier functions]. /Proceedings of the 59th IEEE Conference on Decision and Control/, pp. 3353–3358, 2020. 
 - A. Gahlawat, *P. Zhao*, A. Patterson, N. Hovakimyan and E. A. Theodorou.  L1-GP: L1 adaptive control with Bayesian learning. /2nd Conference on Learning for Dynamics and Control/, /Proceedings of Machine Learning Research/, vol. 120:1–12, 2020. 
 - S. Snyder, *P. Zhao* and N. Hovakimyan. L1 adaptive control for switching reference systems: Application to flight control. /IFAC-PapersOnLine/, 52(16), pp.718-723, 2019.
