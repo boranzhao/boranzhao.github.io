@@ -5,11 +5,12 @@
  A reinforcement learning (RL) control policy trained in a nominal environment could fail in a new/perturbed environment due to the existence of dynamic variations. For controlling systems with continuous state and action spaces, we propose an add-on approach to robustifying a pre-trained RLpolicy by augmenting it with an $\mathcal L_1$ adaptive controller (L1AC). Leveraging the capability of an L1AC for fast estimation and active compensation of dynamic variations, the proposed approach can improve the robustness of an RL policy which is trained either in a simulator or in the real world without consideration of a broad class of dynamic variations.
 ~~~
 {}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xgOB9vpyUgE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xgOB9vpyUgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 References
 - Y. Cheng*, P. Zhao*, F. Wang, D. J. Block, and N. Hovakimyan. Improving the Robustness of reinforcement learning Policies with $\mathcal L_1$ adaptive control. /IEEE Robotics and Automation Letters/,
 under review, 2021. arXiv:2112.01953. (*equal contribution)
+
 
 
 == Adaptive control for Learn-to-Fly
