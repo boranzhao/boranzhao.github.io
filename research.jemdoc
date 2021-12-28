@@ -1,6 +1,17 @@
 # jemdoc: menu{MENU}{research.html}
 = Selected Projects
 
+== Robust reinforcement learning
+ A reinforcement learning (RL) control policy trained in a nominal environment could fail in a new/perturbed environment due to the existence of dynamic variations. For controlling systems with continuous state and action spaces, we propose an add-on approach to robustifying a pre-trained RLpolicy by augmenting it with an $\mathcal L_1$ adaptive controller (L1AC). Leveraging the capability of an L1AC for fast estimation and active compensation of dynamic variations, the proposed approach can improve the robustness of an RL policy which is trained either in a simulator or in the real world without consideration of a broad class of dynamic variations.
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xgOB9vpyUgE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
+References
+- Y. Cheng*, P. Zhao*, F. Wang, D. J. Block, and N. Hovakimyan. Improving the Robustness of reinforcement learning Policies with $\mathcal L_1$ adaptive control. /IEEE Robotics and Automation Letters/,
+under review, 2021. arXiv:2112.01953. (*equal contribution)
+
+
 == Adaptive control for Learn-to-Fly
 Learn-to-Fly  aims to reduce or eliminate the need for ground-based aero-dynamic modeling in favor of in-flight modeling and control law determination. At the initial stage of the model learning process, large uncertainties inevitably exist. To stabilize the aerial vehicles in the presence of the large uncertainties, we leverage and extend the $\mathcal{L}_1$ adaptive control architecture to allow for switched nominal/desired dynamics, as a result of periodic update of the learned model. The framework is validated by flight tests on UAVs.
 ~~~
@@ -8,7 +19,7 @@ Learn-to-Fly  aims to reduce or eliminate the need for ground-based aero-dynamic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UTQTXEp4WmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 References 
-- S. Snyder, *P. Zhao** and N. Hovakimyan.  Adaptive control for Learn-to-Fly validated by flight tests, /in preparation/.
+- S. Snyder, P. Zhao and N. Hovakimyan. $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly. /Journal of Guidance, Control, and Dynamics/, revision under review, 2021. arXiv:2108.08462
 
 == Robust and gain-scheduled control of miniaturized optical image stabilizers (OISs)
 In this project, robust and gain-scheduled control methods are explored for miniaturized optical image stabilizers to deal with the inevitable product variations. These methods were experimentally validated on both large-scale and small-scale prototypes. 

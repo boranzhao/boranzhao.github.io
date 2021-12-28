@@ -2,10 +2,16 @@
 = Publications
 
 == Under review
-- S. Synder, *P. Zhao*\* and N. Hovakimyan. L1 adaptive control for Learn-to-Fly, submitted to /Journal of Guidance, Control, and Dynamics/, 2021. (\* denotes the corresponding author)
-- *P. Zhao*, S. Snyder, N. Hovakimyan and C. Cao. [https://arxiv.org/abs/2010.04600 Robust adaptive control of linear parameter-varying systems with unmatched uncertainties]. Submitted to /Automatica/, arXiv:2010.04600, 2020. 
+- Y. Cheng\* , *P. Zhao*\*, F. Wang, D. J. Block, and N. Hovakimyan. Improving the Robustness of reinforcement learning Policies with 1 adaptive control. IEEE Robotics and Automation Letters, under review, 2021. arXiv:2112.01953. (\* equal contribution)
+- *P. Zhao*, A. Lakshmanan, K. Ackerman, A. Gahlawat, M. Pavone, and N. Hovakimyan. Tube- certified trajectory tracking for nonlinear systems with robust control contraction metrics. IEEE Robotics and Automation Letters, revision under review, 2021. arXiv:2109.04453.
+ 
+- S. Snyder, *P. Zhao* and N. Hovakimyan. $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly. Journal of Guidance, Control, and Dynamics, revision under review, 2021. arXiv:2108.08462. ( corresponding author)
+- *P. Zhao*, S. Snyder, N. Hovakimyan and C. Cao. Robust adaptive control of linear parameter- varying systems with unmatched uncertainties. IEEE Transactions on Automatic Control, under review, 2021. arXiv:2010.04600.
+- *P. Zhao*, Z. Guo, Y. Cheng, A. Gahlawat, and N. Hovakimyan. Guaranteed contraction control in the presence of imperfectly learned dynamics. 4th Annual Learning for Dynamics & Control, under review, 2021. arXiv:2112.08222.
+- Z. Wu, C. Sheng, K. A. Ackerman, A. Gahlawat, A. Lakshmanan, *P. Zhao*, and N. Hov akimyan. $\mathcal L_1$ adaptive augmentation for geometric tracking control of quadrotors.” arXiv preprint arXiv:2109.06998 (2021).
+ 
 == Journal papers
-- S. Snyder, *P. Zhao* and N. Hovakimyan. [https://www.sciencedirect.com/science/article/pii/S1270963821001310  Adaptive control for linear parameter-varying systems with application to a VTOL aircraft]. /Aerospace Science and Technology/, 2020.
+- S. Snyder, *P. Zhao* and N. Hovakimyan. Adaptive control for linear parameter-varying systems with application to a VTOL aircraft. /Aerospace Science and Technology/, 112: 106621, 2021.
 - Y. Mao, H. Jafarnejadsani, *P. Zhao*, E. Akyol and N. Hovakimyan. Novel stealthy attack and defense strategies for networked control systems. /IEEE Transactions on Automatic Control/, 65(9): 3847–3862, 2020. 
 - A. Alizadegan, *P. Zhao*, R. Nagamune and M. Chiao. Experimental validation of a robust $H_\infty$ control method on miniaturized optical image stabilizer prototypes. /Journal of Dynamic Systems, Measurement, and Control/, 142(12): 124501, 2020. 
 - *P. Zhao* and R. Nagamune. Switching linear parameter-varying control with improved local performance and optimized switching surfaces. /International Journal of Robust and Nonlinear Control/, 28: 3403–3421, 2018. 
@@ -17,6 +23,7 @@
 == Book chapter 
 - K. Yuan, A. Alizadegan, *P. Zhao*, R. Nagamune, J. Chu, S. Park and M. Chiao, Design, fabrication, and  robust control of miniaturized optical image stabilizers," /Advanced Mechatronics and MEMS Devices - II/, Dan Zhang and Bin Wei (eds.), Springer International Publishing Switzerland, Chapter 28, pp. 189–207, 2017.
 == Conference/Workshop papers
+- *P. Zhao*, Z. Guo, Y. Cheng and N. Hovakimyan. Guaranteed nonlinear control with DNN- learned dynamics using robust contraction metrics and disturbance estimation. AAAI Workshop on Trustworthy Autonomous Systems Engineering, 2022.
 - Y. Cheng\*, *P. Zhao*\*, M. Gandhi, B. Li, E. Theodorou and N. Hovakimyan. Robustifying reinforcement learning policies with L1 adaptive control, in /Workshop on Safe Robot Control with Learned Motion and Environment Models/, /International Conference on Robotics and Automation/, 2021. (\* denotes equal contributions.)
 - *P. Zhao*, Y. Mao, C. Tao, N. Hovakimyan and X. Wang. [https://arxiv.org/abs/2010.04699 Adaptive robust quadratic programs using control Lyapunov and barrier functions]. /Proceedings of the 59th IEEE Conference on Decision and Control/, pp. 3353–3358, 2020. 
 - A. Gahlawat, *P. Zhao*, A. Patterson, N. Hovakimyan and E. A. Theodorou.  L1-GP: L1 adaptive control with Bayesian learning. /2nd Conference on Learning for Dynamics and Control/, /Proceedings of Machine Learning Research/, vol. 120:1–12, 2020. 
