@@ -17,7 +17,7 @@ under review, 2021. arXiv:2112.01953. (*equal contribution)
 Learn-to-Fly  aims to reduce or eliminate the need for ground-based aero-dynamic modeling in favor of in-flight modeling and control law determination. At the initial stage of the model learning process, large uncertainties inevitably exist. To stabilize the aerial vehicles in the presence of the large uncertainties, we leverage and extend the $\mathcal{L}_1$ adaptive control architecture to allow for switched nominal/desired dynamics, as a result of periodic update of the learned model. The framework is validated by flight tests on UAVs.
 ~~~
 {}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UTQTXEp4WmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y6O1mwzHdOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 References 
 - S. Snyder, P. Zhao and N. Hovakimyan. $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly. /Journal of Guidance, Control, and Dynamics/, revision under review, 2021. arXiv:2108.08462
