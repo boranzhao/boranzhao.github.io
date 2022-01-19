@@ -8,7 +8,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgOB9vpyUgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 References
-- Y. Cheng*, P. Zhao*, F. Wang, D. J. Block, and N. Hovakimyan. Improving the Robustness of reinforcement learning Policies with $\mathcal L_1$ adaptive control. /IEEE Robotics and Automation Letters/,
+- Y. Cheng*, P. Zhao*, F. Wang, D. J. Block, and N. Hovakimyan. Improving the robustness of reinforcement learning policies with $\mathcal L_1$ adaptive control. /IEEE Robotics and Automation Letters/,
 under review, 2021. arXiv:2112.01953. (*equal contribution)
 
 
