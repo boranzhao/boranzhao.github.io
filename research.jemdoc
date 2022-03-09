@@ -1,8 +1,18 @@
 # jemdoc: menu{MENU}{research.html}
 = Selected Projects
 
-== Robust reinforcement learning
- A reinforcement learning (RL) control policy trained in a nominal environment could fail in a new/perturbed environment due to the existence of dynamic variations. For controlling systems with continuous state and action spaces, we propose an add-on approach to robustifying a pre-trained RLpolicy by augmenting it with an $\mathcal L_1$ adaptive controller (L1AC). Leveraging the capability of an L1AC for fast estimation and active compensation of dynamic variations, the proposed approach can improve the robustness of an RL policy which is trained either in a simulator or in the real world without consideration of a broad class of dynamic variations.
+== Robust motion planning with tube-certified trajectory tracking
+We propose an approach to guaranteed trajectory tracking for nonlinear control-affine systems subject to external disturbances based on robust control contraction metrics (CCM) that aims to minimize the Linf gain from the disturbances to nominal-actual trajectory deviations. The guarantee is in the form of invariant tubes, computed offline and valid for any nominal trajectories, in which the actual states and inputs of the system are guaranteed to stay despite disturbances. The tracking controller together with tubes can be incorporated into a feedback motion planning framework to plan safe trajectories for robotic systems.
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mrN5iQo7NxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
+References
+- P. Zhao, A. Lakshmanan, K. Ackerman, A. Gahlawat, M. Pavone, and N. Hovakimyan. Tube-certified trajectory tracking for nonlinear systems with robust control contraction metrics. /IEEE Robotics and Automation Letters/, in press, 2022. arXiv:2109.04453.
+
+
+== Robustifying reinforcement learning policies with adaptive augmentation
+ A reinforcement learning (RL) control policy trained in a nominal environment could fail in a new/perturbed environment due to the existence of dynamic variations. For controlling systems with continuous state and action spaces, we propose an add-on approach to robustifying a pre-trained RL policy by augmenting it with an $\mathcal L_1$ adaptive controller (L1AC). Leveraging the capability of an L1AC for fast estimation and active compensation of dynamic variations, the proposed approach can improve the robustness of an RL policy which is trained either in a simulator or in the real world without consideration of a broad class of dynamic variations.
 ~~~
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgOB9vpyUgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
