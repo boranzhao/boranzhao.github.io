@@ -17,7 +17,7 @@ References
 {}{raw}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xZBcsNMYK3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
-References (\* denotes equal contributions.)
+References (\* denotes equal contribution)
 - Y. Cheng\*, P. Zhao\*, F. Wang, D. J. Block, and N. Hovakimyan. Improving the robustness of reinforcement learning policies with $\mathcal L_1$ adaptive control. /IEEE Robotics and Automation Letters/,
 in press, 2022. arXiv:2112.01953.
 - Y. Cheng\*, P. Zhao\*, M. Gandhi, B. Li, E. Theodorou and N. Hovakimyan. Robustifying reinforcement learning policies with L1 adaptive control, in /Workshop on Safe Robot Control with Learned Motion and Environment Models/, /International Conference on Robotics and Automation/, 2021. 
@@ -37,6 +37,7 @@ Soil carbon sequestration in croplands has tremendous potential to help mitigate
 ~~~
 {}{img_left}{https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/carbon-rl.png?raw=true}{Proposed framework for agricultural managment based on RL and crop simulations}{560}{345}{https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/carbon-rl.png?raw=true}
 ~~~
+
 References (* denotes equal contribution)
 - J. Wu\*, R. Tao\*, P. Zhao\*, N. Martin and N. Hovakimyan. Optimizing nitrogen management with deep reinforcement learning and
 crop simulations. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop on AGRICULTURE-VISION, accepted, 2022. 
@@ -46,6 +47,7 @@ In this project, robust and gain-scheduled control methods are explored for mini
 ~~~
 {}{img_left}{https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/OIS-ExpSetup.png?raw=true}{Experimental setup with the large-scale prototype}{560}{345}{https://github.com/boranzhao/boranzhao.github.io/blob/main/figs/OIS-ExpSetup.png?raw=true}
 ~~~
+
 References
 - A. Alizadegan, P. Zhao, R. Nagamune and M. Chiao. Experimental validation of a robust $H_\infty$ control method on miniaturized optical image stabilizer prototypes. /Journal of Dynamic Systems, Measurement, and Control/, 142(12): 124501, 2020. 
 - P. Zhao, R. Nagamune and M. Chiao. Multiple parameter-dependent robust control of minia- turized optical image stabilizers. /Control Engineering Practice/, 2018, 76: 1–11. 
