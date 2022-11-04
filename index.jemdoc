@@ -5,24 +5,25 @@
 {}{img_left}{zhao.jpeg}{alt text}{161}{183}{}
 *Pan Zhao* \n
 Postdoctoral Reseacher \n 
+[https://naira.mechse.illinois.edu/ Advanced Controls Research Laboratory]\n
 [http://mechse.illinois.edu/ Department of Mechanical Science and Engineering] \n
 [https://illinois.edu/ University of Illinois at Urbana-Champaign]  \n
+Office: Room 3035, Sidney Lu Mechanical Engineering Building, Urbana, IL 61801 \n
+E-mail: panzhao2@illinois.edu \n 
 
-
-E-mail: panzhao2@illinois.edu \n [https://github.com/boranzhao GitHub] \n
-[https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar]\n
-[https://uofi.box.com/v/cv-pan-zhao-0558 CV]\n
+\[[https://uofi.box.com/v/cv-pan-zhao-0558 CV]\] \[[https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar]\] \[[https://www.linkedin.com/in/panbrzhao/ LinkedIn]\]\n
 ~~~
 
 == About me 
-I am a postdoc in the Department of Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign, advised by Prof. [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Naira Hovakimyan]. From 2013 to 2018, I was a PhD student in the [http://cel.mech.ubc.ca/ Control Engineering Lab] at the University of British Columbia, where I was supervised by Prof. [https://mech.ubc.ca/ryozo-nagamune/ Ryozo Nagamune] and Prof. [https://mech.ubc.ca/mu-chiao/ Mu Chiao]. I have also been very fortunate to work with Prof. [http://shi.buaa.edu.cn/wangshaoping/index.htm Shaoping Wang] during my master's studies at Beihang University from 2008 to 2013. In 2018, I had a short yet pleasant experience of working with Prof. [https://people.cs.umass.edu/~pthomas/ Philip S. Thomas] as a visiting student. Before starting my Ph.D. study, I was a modeling & simulation engineer in [http://www.hirain.com/ Hirain Technologies]. 
+I am a Postdoctoral Researcher in the [https://mechse.illinois.edu/ Department of Mechanical Science and Engineering] at the [https://illinois.edu/ University of Illinois at Urbana-Champaign], advised by Prof. [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Naira Hovakimyan]. I got my Ph.D. in Mechanical Engineering in 2018 from the [https://www.ubc.ca/ University of British Columbia], advised by Prof. [https://mech.ubc.ca/ryozo-nagamune/ Ryozo Nagamune] and Prof. [https://mech.ubc.ca/mu-chiao/ Mu Chiao]. I recieved a B.E. and M.E. in 2009 and 2012, respectively, from [https://ev.buaa.edu.cn/ Beihang University], under the supervision of Prof. [http://shi.buaa.edu.cn/wangshaoping/index.htm Shaoping Wang]. From 2012 to 2013, I was a modeling & simulation engineer in [http://www.hirain.com/ Hirain Technologies]. 
 
-== Research Interests 
-My research interests include *control*, *autonomy* and *sustainability*.  In particular, I am interested in developing robust/adaptive and learning-enabled control algorithms to ensure safe and efficient operation of autonomous systems in uncertain environments. I am also interested in applying control and machine learning techniques for sustainable agriculture and mitigation of climate change.
+== Research
+My current research focus on *control* and *autonomy*. In particular, I work on developing robust, adaptive and nonlinear control algorithms (with machine learning-enabled elements) to ensure safe and efficient operation of aerospace, robotic and autonomous systems in dynamic and uncertain environments. I am also interested in applying machine learning to optimize agricultural management for sustainable and resilient agriculture. Specific projects that I have been working on include
+- Integrated planning and control for robotic and autonomous systems with nonlinear and uncertain dynamics
+- Safe and robust learning-enabled control via active uncertainty compensation
+- Adaptive control of aerospace systems under time-varying desired dynamics 
+- Integrated adaptive control and reference governors for constrained control of uncertain systems
+- Intelligent agricultural management with reinforcement learning
+- Robust and gain-scheduled control with application to mechatronic systems
 
-== Education 
-- Ph.D., Mechanical Engineering, *University of British Columbia*, Vancouver, Canada,  September 2018
-- M.S., Mechatronics Engineering, *Beihang University*, Beijing, China, January 2012
-- B.S., Automation, *Beihang University*, Beijing, China, July 2009
-
-
+Check [research.html selected projects] for details. 
