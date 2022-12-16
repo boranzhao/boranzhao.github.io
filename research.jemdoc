@@ -52,7 +52,7 @@ In particular, for LPV systems subject to unmatched uncertainties,  we proposed 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y6O1mwzHdOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 References 
-- S. Snyder, P. Zhao and N. Hovakimyan. $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly. /Journal of Guidance, Control, and Dynamics/, in press, 2022. 
+- S. Snyder, P. Zhao and N. Hovakimyan. $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly. /Journal of Guidance, Control, and Dynamics/, 45(12): 2229–2242, 2022
 - P. Zhao, S. Snyder, N. Hovakimyan and C. Cao. Robust adaptive control of linear parameter-varying systems with unmatched uncertainties. Submitted, 2021. arXiv:2010.04600.
 - S. Snyder, P. Zhao and N. Hovakimyan. L1 adaptive control for switching reference systems: Application to flight control. /IFAC-PapersOnLine/, 52(16), pp.718-723, 2019.
 
@@ -64,8 +64,8 @@ The world’s agricultural system is facing significant challenges to bridge the
 ~~~
 References
 - J. Wu\*, R. Tao\*, P. Zhao\*, N. Martin and N. Hovakimyan. Optimizing nitrogen management with deep reinforcement learning and
-crop simulations. /IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops/, pp. 1712-1720, 2022. 
-- Ran Tao, Pan Zhao, Jing Wu, et al. Optimizing Crop management with reinforcement learning and imitation learning. Submitted, 2022.
+crop simulations. /IEEE\/CVF Conference on Computer Vision and Pattern Recognition Workshops/, pp. 1712-1720, 2022. 
+- Ran Tao, Pan Zhao, Jing Wu, et al. Optimizing crop management with reinforcement learning and imitation learning. Submitted, 2022.
 
 
 == Robust and optimal switching linear parameter-varying (LPV) control 

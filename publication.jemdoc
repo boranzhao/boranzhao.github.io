@@ -33,10 +33,10 @@ Z. Wu, S. Cheng, *P. Zhao*, A. Gahlawat, K. Ackerman, A. Lakshmanan, C. Yang, J.
 In preparation\n
 \[[https://youtu.be/18-2OqTRJ50 Video]\]
 
-== Journal papers
+== Journal Papers
 . [https://arc.aiaa.org/doi/abs/10.2514/1.G006305 $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly]\n
 S. Snyder, *P. Zhao* and N. Hovakimya\n
- /Journal of Guidance, Control, and Dynamics,/, 45(12): 2229–2242, 2022 \n
+ /Journal of Guidance, Control, and Dynamics/, 45(12): 2229–2242, 2022 \n
 \[[https://www.youtube.com/watch?v=y6O1mwzHdOE Video]\]
 . [https://ieeexplore.ieee.org/document/9720168 Tube-certified trajectory tracking for nonlinear systems with robust control contraction metrics]\n
 *P. Zhao*, A. Lakshmanan, K. Ackerman, A. Gahlawat, M. Pavone, and N. Hovakimyan\n
@@ -81,7 +81,7 @@ K. Yuan, A. Alizadegan, *P. Zhao*, R. Nagamune, J. Chu, S. Park and M. Chiao \n
 /Advanced Mechatronics and MEMS Devices - II/, Dan Zhang and Bin Wei (eds.), Springer International Publishing Switzerland, Chapter 28, pp. 189–207, 2017.
 
 
-== Conference papers
+== Conference Papers
 . [https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/papers/Wu_Optimizing_Nitrogen_Management_With_Deep_Reinforcement_Learning_and_Crop_Simulations_CVPRW_2022_paper.pdf Optimizing nitrogen management with deep reinforcement learning and crop simulations]\n
 J. Wu\*, R. Tao\*, *P. Zhao*\*, N. Martin and N. Hovakimyan.\n
 /Proceedings of IEEE\/CVF Conference on Computer Vision and Pattern Recognition Workshops/, pp. 1712-1720, 2022\n
@@ -122,7 +122,7 @@ Y. Mao, H. Jafarnejadsani, *P. Zhao*, E. Akyol and N. Hovakimyan\n
 A. Alizadegan, *P. Zhao*, R. Nagamune and M. Chiao\n
  /Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics/, pp. 846–851, 2016
  
-== Workshop papers  
+== Workshop Papers  
 . [https://scl-icra2021.github.io/papers/SCL-ICRA2021_paper_6.pdf Robustifying reinforcement learning policies with $\mathcal L_1$ adaptive control]\n
 Y. Cheng\*, *P. Zhao*\*, M. Gandhi, B. Li, E. Theodorou and N. Hovakimyan\n
 ICRA Workshop on Safe Robot Control with Learned Motion and Environment Models, 2021 
