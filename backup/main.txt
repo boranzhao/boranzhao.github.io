@@ -1,0 +1,7 @@
+My current research focus on *control* and *autonomy*. In particular, I work on developing robust, adaptive and nonlinear control algorithms (with machine learning-enabled elements) to ensure safe and efficient operation of aerospace, robotic and autonomous systems in dynamic and uncertain environments. I am also interested in applying machine learning to optimize agricultural management for sustainable and resilient agriculture. Specific projects that I have been working on include
+- Integrated planning and control for robotic and autonomous systems with nonlinear and uncertain dynamics
+- Safe and robust learning-enabled control via active uncertainty compensation
+- Adaptive control of aerospace systems under time-varying desired dynamics 
+- Integrated adaptive control and reference governors for constrained control of uncertain systems
+- Intelligent agricultural management with reinforcement learning
+- Robust and gain-scheduled control with application to mechatronic systems

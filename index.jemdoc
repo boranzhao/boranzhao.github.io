@@ -11,19 +11,20 @@ Postdoctoral Reseacher \n
 Office: Room 3035, Sidney Lu Mechanical Engineering Building, Urbana, IL 61801 \n
 E-mail: panzhao2@illinois.edu \n 
 
-\[[https://uofi.box.com/v/cv-pan-zhao-0558 CV]\] \[[https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar]\] \[[https://www.linkedin.com/in/panbrzhao/ LinkedIn]\]\n
+\[[https://uofi.box.com/v/cv-pan-zhao1 CV]\] \[[https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar]\] \[[https://www.linkedin.com/in/panbrzhao/ LinkedIn]\]\n
 ~~~
 
 == About me 
-I am a Postdoctoral Researcher in the [https://mechse.illinois.edu/ Department of Mechanical Science and Engineering] at the [https://illinois.edu/ University of Illinois at Urbana-Champaign], advised by Prof. [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Naira Hovakimyan]. I got my Ph.D. in Mechanical Engineering in 2018 from the [https://www.ubc.ca/ University of British Columbia], advised by Prof. [https://mech.ubc.ca/ryozo-nagamune/ Ryozo Nagamune] and Prof. [https://mech.ubc.ca/mu-chiao/ Mu Chiao]. I recieved a B.E. and M.E. in 2009 and 2012, respectively, from [https://ev.buaa.edu.cn/ Beihang University], under the supervision of Prof. [http://shi.buaa.edu.cn/wangshaoping/index.htm Shaoping Wang]. From 2012 to 2013, I was a modeling & simulation engineer in [http://www.hirain.com/ Hirain Technologies]. 
+I am a Postdoctoral Researcher in the [https://mechse.illinois.edu/ Department of Mechanical Science and Engineering] at the [https://illinois.edu/ University of Illinois at Urbana-Champaign], advised by Prof. [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Naira Hovakimyan]. I got my Ph.D. in Mechanical Engineering in 2018 from the [https://www.ubc.ca/ University of British Columbia], advised by Prof. [https://mech.ubc.ca/ryozo-nagamune/ Ryozo Nagamune] and Prof. [https://mech.ubc.ca/mu-chiao/ Mu Chiao]. I received a B.E. and M.E. in 2009 and 2012, respectively, from [https://ev.buaa.edu.cn/ Beihang University], under the supervision of Prof. [http://shi.buaa.edu.cn/wangshaoping/index.htm Shaoping Wang]. I was a visiting student in the [https://all.cs.umass.edu/ Autonomous Learning Laboratory] at the [https://www.umass.edu/ University of Massachusetts Amherst], advised by Prof. [https://people.cs.umass.edu/~pthomas/ Philip S. Thomas]. 
+From 2012 to 2013, I was a modeling & simulation engineer at [http://www.hirain.com/ Hirain Technologies]. I did an internship at Siemens Corporate Technology, Princeton, NJ, in 2017. During my Ph.D. program, I received the [https://vanier.gc.ca/en/home-accueil.html Vanier Canada Graduate Scholarship]. 
 
-== Research
-My current research focus on *control* and *autonomy*. In particular, I work on developing robust, adaptive and nonlinear control algorithms (with machine learning-enabled elements) to ensure safe and efficient operation of aerospace, robotic and autonomous systems in dynamic and uncertain environments. I am also interested in applying machine learning to optimize agricultural management for sustainable and resilient agriculture. Specific projects that I have been working on include
-- Integrated planning and control for robotic and autonomous systems with nonlinear and uncertain dynamics
-- Safe and robust learning-enabled control via active uncertainty compensation
-- Adaptive control of aerospace systems under time-varying desired dynamics 
-- Integrated adaptive control and reference governors for constrained control of uncertain systems
-- Intelligent agricultural management with reinforcement learning
-- Robust and gain-scheduled control with application to mechatronic systems
+== Research Interests
+I am broadly interested in *control*, *robotics*, *autonomy*, and *machine learning for control and decision making*. Some specific directions that I currently focus on include
+- Robust, adaptive, and nonlinear control 
+- Learning-enabled control of safety-critical systems  
+- Robust integrated planning and control for robotic and autonomous systems
+- Optimal and predictive control under uncertainties
+- Control of aerospace vehicles and aerial robots
+- Artificial intelligence for sustainable agricultural management
 
 Check [research.html selected projects] for details. 

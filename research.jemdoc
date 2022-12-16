@@ -21,7 +21,7 @@ In this project, we explore the integration of machine learning (ML) and control
 - For nonlinear systems subject to matched state-dependent uncertainties, we proposed an approach for trajectory-centric learning control based on CCM and disturbance estimation. The approach allows for the use of a broad class of model learning tools including deep neural networks (DNNs), to learn uncertain dynamics while still providing guarantees of transient tracking performance throughout the learning phase. 
 ~~~
 {}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xZBcsNMYK3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQTeHPXmLGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 References 
 - Y. Cheng\*, P. Zhao\*, F. Wang, D. J. Block, and N. Hovakimyan. Improving the robustness of reinforcement learning policies with $\mathcal L_1$ adaptive control. /IEEE Robotics and Automation Letters/,
@@ -34,8 +34,18 @@ estimation. Submitted to the /2023 American Control Conference/, 2022.
 control with Bayesian learning. /2nd Conference on Learning for Dynamics and Control/, 2020.
 
 
+== Adaptive geometric control of quadrotors
+Quadrotors have been widely used in various applications such as environment monitoring, structure inspection, emergency response, and package delivery. Precise control of quadrotors is very challenging in the presence of model uncertainties and disturbances from a variety of sources such as aerodynamic drag, unknown payload and wind/gust.  In this project, we proposed an adaptive geometric controller based on $\mathcal L_1$ adaptive augmentation of a geometric controller, which provides guaranteed tracking performance in the presence of a broad class of uncertainties. We experimentally validated the performance of the controller on a custom-built quadrotor platform. 
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/18-2OqTRJ50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
+References 
+- Z. Wu, S. Cheng, P. Zhao, et al. $\mathcal L_1$Quad: $\mathcal L_1$ adaptive augmentation of geometric control for agile quadrotors with performance guarantees. In preparation, 2022.
+- Z. Wu, C. Sheng, K. A. Ackerman, A. Gahlawat, A. Lakshmanan, P. Zhao, and N. Hovakimyan.  $\mathcal L_1$ adaptive augmentation for geometric tracking control of quadrotors. /IEEE International Conference on Robotics and Automation/, pp. 1329 – 1336, 2022.
+
 == Adaptive control with switched or scheduled desired dynamics with aerospace applications
-Inspired by the motivation of adjusting the desired dynamics in the control of aerospace systems, we developed adaptive controllers that allow the desired dynamics to be systematically scheduled or switched, e.g., according to the operating conditions. The developed adaptive controllers utilize the $\mathcal L_1$ adaptive control architecture that has been tested on many safety-critical systems, including piloted and unmanned aircraft, and incorporate LPV and switching systems to characterize the desired dynamics.  
+Motivated by the need of adjusting the desired dynamics in the control of aerospace systems, we developed adaptive controllers that allow the desired dynamics to be systematically scheduled or switched, e.g., according to the operating conditions. The developed adaptive controllers utilize the $\mathcal L_1$ adaptive control architecture that has been tested on many safety-critical systems, including piloted and unmanned aircraft, and incorporate LPV and switching systems to characterize the desired dynamics.  
 In particular, for LPV systems subject to unmatched uncertainties,  we proposed a novel approach based on peak-to-peak gain minimization and analysis from robust control, to mitigate the effect of unmatched uncertainties, while allowing for the controllers to provide transient performance guarantees. Additionally, the adaptive controller with switched desired dynamics was used to facilitate safe real-time learning of aerial vehicle dynamics and tested on a UAV. 
 ~~~
 {}{raw}
