@@ -3,6 +3,12 @@
 
 For an up-to-date publication list, please see my [https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar] page.\n
 \* indicates equal contributions
+== In Preparation
+. $\mathcal L_1$Quad: $\mathcal L_1$ adaptive augmentation of geometric control for agile quadrotors with performance guarantees\n
+Z. Wu, S. Cheng, *P. Zhao*, A. Gahlawat, K. Ackerman, A. Lakshmanan, C. Yang, J. Yu, and N. Hovakimyan\n
+In preparation 
+\[[https://youtu.be/18-2OqTRJ50 Video]\]
+
 == Under Review & Preprints
 . [https://arxiv.org/abs/2208.02985 Integrated adaptive control and reference governors for constrained systems with state-dependent uncertainties]\n
 *P. Zhao*, I. Kolmanovsky, and N. Hovakimyan\n
@@ -24,14 +30,9 @@ L. Song, *P. Zhao*, N. Wan and N. Hovakimyan\n
 R. Tao, *P. Zhao*, J. Wu, N. F. Martin, M. T. Harrison, C. Ferreira, Z. Kalantari, and N. Hovakimyan \n
 /22nd International Conference on Autonomous Agents and Multiagent Systems
 (AAMAS)/, under review, 2022
-. [https://arxiv.org/abs/2211.17250 Safe model-free reinforcement learning using disturbanceobserver-
-based control barrier functions]\n 
+. [https://arxiv.org/abs/2211.17250 Safe model-free reinforcement learning using disturbance observer-based control barrier functions]\n 
 Y. Cheng, *P. Zhao*, and N. Hovakimyan\n 
 /5th Conference on Learning for Dynamics and Control/, under review, 2022
-. $\mathcal L_1$Quad: $\mathcal L_1$ adaptive augmentation of geometric control for agile quadrotors with performance guarantees\n
-Z. Wu, S. Cheng, *P. Zhao*, A. Gahlawat, K. Ackerman, A. Lakshmanan, C. Yang, J. Yu, and N. Hovakimyan\n
-In preparation\n
-\[[https://youtu.be/18-2OqTRJ50 Video]\]
 
 == Journal Papers
 . [https://arc.aiaa.org/doi/abs/10.2514/1.G006305 $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly]\n

@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{zhao.jpeg}{alt text}{161}{183}{}
 *Pan Zhao* \n
-Postdoctoral Reseacher \n 
+Postdoctoral Researcher \n 
 [https://naira.mechse.illinois.edu/ Advanced Controls Research Laboratory]\n
 [http://mechse.illinois.edu/ Department of Mechanical Science and Engineering] \n
 [https://illinois.edu/ University of Illinois at Urbana-Champaign]  \n
@@ -19,9 +19,9 @@ I am a Postdoctoral Researcher in the [https://mechse.illinois.edu/ Department o
 From 2012 to 2013, I was a modeling & simulation engineer at [http://www.hirain.com/ Hirain Technologies]. I did an internship at Siemens Corporate Technology, Princeton, NJ, in 2017. During my Ph.D. program, I received the [https://vanier.gc.ca/en/home-accueil.html Vanier Canada Graduate Scholarship]. 
 
 == Research Interests
-I am broadly interested in *control*, *robotics*, *autonomy*, and *machine learning for control and decision making*. Some specific directions that I currently focus on include
+I am broadly interested in *control*, *autonomous systems*, *robotics*, and *machine learning for control and decision making*. Some specific directions that I currently focus on include
 - Robust, adaptive, and nonlinear control 
-- Learning-enabled control of safety-critical systems  
+- Safe reinforcement learning and learning-enabled control 
 - Robust integrated planning and control for robotic and autonomous systems
 - Optimal and predictive control under uncertainties
 - Control of aerospace vehicles and aerial robots
