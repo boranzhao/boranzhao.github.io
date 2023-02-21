@@ -41,7 +41,7 @@ Quadrotors have been widely used in various applications such as environment mon
 <iframe width="560" height="315" src="https://www.youtube.com/embed/18-2OqTRJ50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 References 
-- Z. Wu, S. Cheng, P. Zhao, et al. $\mathcal L_1$Quad: $\mathcal L_1$ adaptive augmentation of geometric control for agile quadrotors with performance guarantees. In preparation, 2022.
+- Z. Wu, S. Cheng, P. Zhao, et al. $\mathcal L_1$Quad: $\mathcal L_1$ adaptive augmentation of geometric control for agile quadrotors with performance guarantees. /Submitted to IEEE Transactions on Robotics/, 2023.
 - Z. Wu, C. Sheng, K. A. Ackerman, A. Gahlawat, A. Lakshmanan, P. Zhao, and N. Hovakimyan.  $\mathcal L_1$ adaptive augmentation for geometric tracking control of quadrotors. /IEEE International Conference on Robotics and Automation/, pp. 1329 – 1336, 2022.
 
 == Adaptive control with switched or scheduled desired dynamics with aerospace applications
@@ -65,7 +65,7 @@ The world’s agricultural system is facing significant challenges to bridge the
 References
 - J. Wu\*, R. Tao\*, P. Zhao\*, N. Martin and N. Hovakimyan. Optimizing nitrogen management with deep reinforcement learning and
 crop simulations. /IEEE\/CVF Conference on Computer Vision and Pattern Recognition Workshops/, pp. 1712-1720, 2022. 
-- Ran Tao, Pan Zhao, Jing Wu, et al. Optimizing crop management with reinforcement learning and imitation learning. Submitted, 2022.
+- Ran Tao, Pan Zhao, Jing Wu, et al. Optimizing crop management with reinforcement learning and imitation learning (extended abstract). International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023.
 
 
 == Robust and optimal switching linear parameter-varying (LPV) control 
