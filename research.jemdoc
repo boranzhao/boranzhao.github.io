@@ -25,12 +25,12 @@ In this project, we explore the integration of machine learning (ML) and control
 ~~~
 References 
 - Y. Cheng\*, P. Zhao\*, F. Wang, D. J. Block, and N. Hovakimyan. Improving the robustness of reinforcement learning policies with $\mathcal L_1$ adaptive control. /IEEE Robotics and Automation Letters/,
-in press, 2022. arXiv:2112.01953.
-- Y. Cheng\*, P. Zhao\*, M. Gandhi, B. Li, E. Theodorou and N. Hovakimyan. Robustifying reinforcement learning policies with L1 adaptive control, in /ICRA Workshop on Safe Robot Control with Learned Motion and Environment Models/, 2021. 
+7(3): 6574 – 6581, 2022.
+- Y. Cheng\*, P. Zhao\*, M. Gandhi, B. Li, E. Theodorou and N. Hovakimyan. Robustifying reinforcement learning policies with $\mathcal L_1$ adaptive control, in /ICRA Workshop on Safe Robot Control with Learned Motion and Environment Models/, 2021. 
 - P. Zhao, Z. Guo, Y. Cheng, A. Gahlawat, H. Kang and N. Hovakimyan. Guaranteed nonlinear
 tracking in the presence of DNN-learned dynamics with contraction metrics and disturbance
-estimation. Submitted to the /2023 American Control Conference/, 2022.
-- A. Gahlawat, P. Zhao, A. Patterson, N. Hovakimyan and E. A. Theodorou. L1-GP: L1 adaptive
+estimation. /arXiv preprint arXiv: 2112.08222/, 2022.
+- A. Gahlawat, P. Zhao, A. Patterson, N. Hovakimyan and E. A. Theodorou. $\mathcal L_1$-GP: $\mathcal L_1$ adaptive
 control with Bayesian learning. /2nd Conference on Learning for Dynamics and Control/, 2020.
 
 
@@ -41,7 +41,7 @@ Quadrotors have been widely used in various applications such as environment mon
 <iframe width="560" height="315" src="https://www.youtube.com/embed/18-2OqTRJ50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 References 
-- Z. Wu, S. Cheng, P. Zhao, et al. $\mathcal L_1$Quad: $\mathcal L_1$ adaptive augmentation of geometric control for agile quadrotors with performance guarantees. /Submitted to IEEE Transactions on Robotics/, 2023.
+- Z. Wu, S. Cheng, P. Zhao, et al. $\mathcal L_1$Quad: $\mathcal L_1$ adaptive augmentation of geometric control for agile quadrotors with performance guarantees. /Submitted to IEEE Transactions on Robotics/, 2023. arXiv: 2302.07208.
 - Z. Wu, C. Sheng, K. A. Ackerman, A. Gahlawat, A. Lakshmanan, P. Zhao, and N. Hovakimyan.  $\mathcal L_1$ adaptive augmentation for geometric tracking control of quadrotors. /IEEE International Conference on Robotics and Automation/, pp. 1329 – 1336, 2022.
 
 == Adaptive control with switched or scheduled desired dynamics with aerospace applications
@@ -54,7 +54,7 @@ In particular, for LPV systems subject to unmatched uncertainties,  we proposed 
 References 
 - S. Snyder, P. Zhao and N. Hovakimyan. $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly. /Journal of Guidance, Control, and Dynamics/, 45(12): 2229–2242, 2022
 - P. Zhao, S. Snyder, N. Hovakimyan and C. Cao. Robust adaptive control of linear parameter-varying systems with unmatched uncertainties. Submitted, 2021. arXiv:2010.04600.
-- S. Snyder, P. Zhao and N. Hovakimyan. L1 adaptive control for switching reference systems: Application to flight control. /IFAC-PapersOnLine/, 52(16), pp.718-723, 2019.
+- S. Snyder, P. Zhao and N. Hovakimyan. $\mathcal L_1$ adaptive control for switching reference systems: Application to flight control. /IFAC-PapersOnLine/, 52(16), pp.718-723, 2019.
 
 
 == Intelligent agricultural management with reinforcement learning and crop simulations
