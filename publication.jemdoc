@@ -16,9 +16,10 @@ Z. Wu, S. Cheng, *P. Zhao*, A. Gahlawat, K. Ackerman, A. Lakshmanan, C. Yang, J.
 . [https://arxiv.org/abs/2112.08222 Guaranteed nonlinear tracking in the presence of DNN-learned dynamics with contraction metrics and disturbance estimation] \n
 *P. Zhao*, Z. Guo, Y. Cheng, A. Gahlawat, H. Kang, and N. Hovakimyan \n
 arXiv preprint arXiv: 2112.08222, 2022
-. [https://arxiv.org/abs/2211.17250 Safe model-free reinforcement learning using disturbance observer-based control barrier functions]\n 
-Y. Cheng, *P. Zhao*, and N. Hovakimyan\n 
-/5th Conference on Learning for Dynamics and Control/, under review, 2022
+. Convex synthesis of control barrier functions under input constraints \n
+*P. Zhao*, R. Ghabcheloo, Y. Cheng, H. Abdi, and N. Hovakimyan, Fello \n
+Submitted, 2023
+
 
 == Journal Papers
 . [https://arxiv.org/abs/2208.02985 Integrated adaptive control and reference governors for constrained systems with state-dependent uncertainties]\n
@@ -73,6 +74,10 @@ K. Yuan, A. Alizadegan, *P. Zhao*, R. Nagamune, J. Chu, S. Park and M. Chiao \n
 
 
 == Conference Papers
+.
+. [https://arxiv.org/abs/2211.17250 Safe and efficient reinforcement learning using disturbance observer-based control barrier functions]\n 
+Y. Cheng, *P. Zhao*, and N. Hovakimyan\n 
+/5th Conference on Learning for Dynamics and Control/, accepted, 2022
 . [https://arxiv.org/abs/2210.03855 Safety embedded stochastic optimal control of networked multi-agent systems]\n
 L. Song, *P. Zhao*, N. Wan and N. Hovakimyan\n
 /2023 American Control Conference/, accepted, 2023 \n
