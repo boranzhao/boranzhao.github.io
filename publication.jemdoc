@@ -1,33 +1,35 @@
 # jemdoc: menu{MENU}{publication.html}
 = Selected Publications
 
-For an up-to-date publication list, please see my [https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar] page.\n
+For an up-to-date publication list, please see my [https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar] page\n
 \* indicates equal contributions
 
 == Under Review & Preprints
 . [https://arxiv.org/abs/2302.07208 $\mathcal L_1$Quad: $\mathcal L_1$ adaptive augmentation of geometric control for agile quadrotors with performance guarantees]\n
 Z. Wu, S. Cheng, *P. Zhao*, A. Gahlawat, K. Ackerman, A. Lakshmanan, C. Yang, J. Yu, and N. Hovakimyan\n
- /IEEE Transactions on Robotics/, under review, 2023 \n
+ /Submitted/, 2023 \n
 \[[https://youtu.be/18-2OqTRJ50 Video]\]  \[[https://arxiv.org/abs/2302.07208.pdf ArXiv]\]
 . [https://arxiv.org/abs/2010.04600 Robust adaptive control of linear parameter-varying systems with unmatched uncertainties]\n
  *P. Zhao*, S. Snyder, N. Hovakimyan, and C. Cao \n 
- /IEEE Transactions on Automatic Control/, under review, 2021 \n
+ /Submitted/, 2021 \n
   \[[https://arxiv.org/abs/2010.04600 ArXiv]\]
 . [https://arxiv.org/abs/2112.08222 Guaranteed nonlinear tracking in the presence of DNN-learned dynamics with contraction metrics and disturbance estimation] \n
 *P. Zhao*, Z. Guo, Y. Cheng, A. Gahlawat, H. Kang, and N. Hovakimyan \n
 arXiv preprint arXiv: 2112.08222, 2022
-. [https://arxiv.org/abs/2211.17250 Safe model-free reinforcement learning using disturbance observer-based control barrier functions]\n 
-Y. Cheng, *P. Zhao*, and N. Hovakimyan\n 
-/5th Conference on Learning for Dynamics and Control/, under review, 2022
+
 
 == Journal Papers
+. [https://ieeexplore.ieee.org/document/10176323 Convex synthesis of control barrier functions under input constraints] \n
+*P. Zhao*, R. Ghabcheloo, Y. Cheng, H. Abdi, and N. Hovakimyan\n
+/IEEE Control System Letters/, vol.7, pp.3102-3107, 2023 \n
+\[[https://github.com/boranzhao/cbf-sos Code]\]
 . [https://arxiv.org/abs/2208.02985 Integrated adaptive control and reference governors for constrained systems with state-dependent uncertainties]\n
 *P. Zhao*, I. Kolmanovsky, and N. Hovakimyan\n
 /IEEE Transactions on Automatic Control/, conditionally accepted, 2023 \n
  \[[https://arxiv.org/abs/2208.02985 ArXiv]\]
 . [https://arc.aiaa.org/doi/abs/10.2514/1.G006305 $\mathcal L_1$ adaptive control with switched reference models: Application to Learn-to-Fly]\n
-S. Snyder, *P. Zhao* and N. Hovakimya\n
- /Journal of Guidance, Control, and Dynamics/, 45(12): 2229–2242, 2022 \n
+S. Snyder, *P. Zhao* and N. Hovakimyan\n
+ /Journal of Guidance, Control, and Dynamics/, 45(12): 2229-2242, 2022 \n
 \[[https://www.youtube.com/watch?v=y6O1mwzHdOE Video]\]
 . [https://ieeexplore.ieee.org/document/9720168 Tube-certified trajectory tracking for nonlinear systems with robust control contraction metrics]\n
 *P. Zhao*, A. Lakshmanan, K. Ackerman, A. Gahlawat, M. Pavone, and N. Hovakimyan\n
@@ -35,7 +37,7 @@ S. Snyder, *P. Zhao* and N. Hovakimya\n
  \[[https://arxiv.org/abs/2109.04453 ArXiv]\]~~\[[https://www.youtube.com/watch?v=mrN5iQo7NxE Video]\]~~\[[https://github.com/boranzhao/robust_ccm_tube Code]\] 
 . [https://ieeexplore.ieee.org/abstract/document/9761728 Improving the robustness of reinforcement learning policies with $\mathcal L_1$ adaptive control]\n
   Y. Cheng\* , *P. Zhao*\*, F. Wang, D. J. Block, and N. Hovakimyan \n
- /IEEE Robotics and Automation Letters/, 7(3): 6574 – 6581, 2022 \n
+ /IEEE Robotics and Automation Letters/, 7(3): 6574-6581, 2022 \n
   \[[https://arxiv.org/abs/2109.04453 ArXiv]\]~~\[[https://youtu.be/YQTeHPXmLGM Video]\]
 . [https://www.mdpi.com/1424-8220/22/13/4743 Robust nonlinear tracking control with exponential
 convergence using contraction metrics and disturbance estimation]\n
@@ -43,42 +45,47 @@ convergence using contraction metrics and disturbance estimation]\n
   /Sensors/, 22(13): 4743, 2022  \n
 . [https://www.sciencedirect.com/science/article/abs/pii/S1270963821001310 Adaptive control for linear parameter-varying systems with application to a VTOL aircraft]\n
 S. Snyder, *P. Zhao* and N. Hovakimyan \n
- /Aerospace Science and Technology/, 112: 106621, 2021. 
+ /Aerospace Science and Technology/, 112: 106621, 2021 
 . [https://ieeexplore.ieee.org/document/9099503 Novel stealthy attack and defense strategies for networked control systems]\n
 Y. Mao, H. Jafarnejadsani, *P. Zhao*, E. Akyol and N. Hovakimyan \n
-/IEEE Transactions on Automatic Control/, 65(9): 3847–3862, 2020 
+/IEEE Transactions on Automatic Control/, 65(9): 3847-3862, 2020 
 . [https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/142/12/124501/1086086/Experimental-Validation-of-a-Robust-H-Control?redirectedFrom=fulltext Experimental validation of a robust $H_\infty$ control method on miniaturized optical image stabilizer prototypes]\n
 A. Alizadegan, *P. Zhao*, R. Nagamune and M. Chiao\n
  /Journal of Dynamic Systems, Measurement, and Control/, 142(12): 124501, 2020
 . [https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.4088?casa_token=dRKyNxUqFNAAAAAA%3AsGMwoAU2cNP7J9v91suMlfC7QRV9zyLwxeRc8VR0jhtZ1m_LC4DGRuSAcmIqYu45ngK3gP3RN7e0gM4 Switching linear parameter-varying control with improved local performance and optimized switching surfaces]\n
 *P. Zhao* and R. Nagamune \n
- /International Journal of Robust and Nonlinear Control/, 28: 3403–3421, 2018 
+ /International Journal of Robust and Nonlinear Control/, 28: 3403-3421, 2018 
 . [https://www.sciencedirect.com/science/article/abs/pii/S096706611830056X Multiple parameter-dependent robust control of miniaturized optical image stabilizers]\n
 *P. Zhao*, R. Nagamune and M. Chiao \n
-/Control Engineering Practice/, 76: 1–11, 2018
+/Control Engineering Practice/, 76: 1-11, 2018
 . [https://www.sciencedirect.com/science/article/abs/pii/S0967066118303976 Robust $H_\infty$ control of miniaturized optical image stabilizers against product variabilities]\n
  A. Alizadegan, *P. Zhao*, R. Nagamune and M. Chiao \n
-/Control Engineering Practice/, 80: 70–82, 2018 \n 
+/Control Engineering Practice/, 80: 70-82, 2018 \n 
 . [https://www.sciencedirect.com/science/article/abs/pii/S0005109816304307 Switching LPV controller design under uncertain scheduling parameters]\n
 *P. Zhao* and R. Nagamune \n
-/Automatica/, 2017, 76: 243–250
+/Automatica/, 2017, 76: 243-250
 . [https://www.sciencedirect.com/science/article/pii/S1000936111604615 Adaptive fuzzy torque control of passive torque servo systems based on small gain theorem and input-to-state stability] \n
 X. Wang, S. Wang, *P. Zhao* \n
- /Chinese Journal of Aeronautics/, 25(6): 906–916, 2012
+ /Chinese Journal of Aeronautics/, 25(6): 906-916, 2012
 
 == Book chapter 
 - [https://link.springer.com/chapter/10.1007/978-3-319-32180-6_28 Design, fabrication, and  robust control of miniaturized optical image stabilizers]\n
 K. Yuan, A. Alizadegan, *P. Zhao*, R. Nagamune, J. Chu, S. Park and M. Chiao \n
-/Advanced Mechatronics and MEMS Devices - II/, Dan Zhang and Bin Wei (eds.), Springer International Publishing Switzerland, Chapter 28, pp. 189–207, 2017.
+/Advanced Mechatronics and MEMS Devices-II/, Dan Zhang and Bin Wei (eds.), Springer International Publishing Switzerland, Chapter 28, pp. 189-207, 2017.
 
 
 == Conference Papers
-. [https://arxiv.org/abs/2210.03855 Safety embedded stochastic optimal control of networked multi-agent systems]\n
+. [https://www.ijcai.org/proceedings/2023/0691.pdf Optimizing Crop management with reinforcement learning and imitation learning] \n
+R. Tao, *P. Zhao*, J. Wu, N. F. Martin, M. T. Harrison, C. Ferreira, Z. Kalantari, and N. Hovakimyan\n
+/Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI-23)/, 2023\n
+. [https://arxiv.org/abs/2211.17250 Safe and efficient reinforcement learning using disturbance observer-based control barrier functions]\n 
+Y. Cheng, *P. Zhao*, and N. Hovakimyan\n 
+/5th Conference on Learning for Dynamics and Control/, /PMLR/, 211:104-115, 2023
+. [https://ieeexplore.ieee.org/document/10156150 Safety embedded stochastic optimal control of networked multi-agent systems]\n
 L. Song, *P. Zhao*, N. Wan and N. Hovakimyan\n
-/2023 American Control Conference/, accepted, 2023 \n
- \[[https://arxiv.org/abs/2210.03855 ArXiv]\]
+/2023 American Control Conference/, 2023 \n
 . [https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/papers/Wu_Optimizing_Nitrogen_Management_With_Deep_Reinforcement_Learning_and_Crop_Simulations_CVPRW_2022_paper.pdf Optimizing nitrogen management with deep reinforcement learning and crop simulations]\n
-J. Wu\*, R. Tao\*, *P. Zhao*\*, N. Martin and N. Hovakimyan.\n
+J. Wu\*, R. Tao\*, *P. Zhao*\*, N. Martin and N. Hovakimyan\n
 /Proceedings of IEEE\/CVF Conference on Computer Vision and Pattern Recognition Workshops/, pp. 1712-1720, 2022\n
 \[[https://arxiv.org/abs/2204.10394 ArXiv]\]
 . [https://ieeexplore.ieee.org/abstract/document/9811946?casa_token=R8JZ1R4tIqYAAAAA:QNaNCrlFbW4mol7qlqe5hBeD1nh6sW23z7yldNFeSHqn5DZh4iihKfPnmw7mulibRDcakMs6DA $\mathcal L_1$ adaptive augmentation for geometric tracking control of quadrotors]\n
@@ -87,11 +94,11 @@ J. Wu\*, R. Tao\*, *P. Zhao*\*, N. Martin and N. Hovakimyan.\n
  \[[https://arxiv.org/abs/2109.06998 ArXiv]\]~~\[[https://www.youtube.com/watch?v=25Z7iAkZ5xw Video]\]
 . [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9303829 Adaptive robust quadratic programs using control Lyapunov and barrier functions]\n
 *P. Zhao*, Y. Mao, C. Tao, N. Hovakimyan and X. Wang\n
-/Proceedings of the 59th IEEE Conference on Decision and Control/, pp. 3353–3358, 2020\n
+/Proceedings of the 59th IEEE Conference on Decision and Control/, pp. 3353-3358, 2020\n
 \[[https://arxiv.org/abs/2010.04699 ArXiv]\]
 . [http://proceedings.mlr.press/v120/gahlawat20a/gahlawat20a.pdf $\mathcal L_1$-GP: $\mathcal L_1$ adaptive control with Bayesian learning]\n
 A. Gahlawat, *P. Zhao*, A. Patterson, N. Hovakimyan and E. A. Theodorou \n
- /2nd Conference on Learning for Dynamics and Control/, /Proceedings of Machine Learning Research/, vol. 120:1–12, 2020
+ /2nd Conference on Learning for Dynamics and Control/, /PMLR/, 120:1-12, 2020
 . $\mathcal L_1$ adaptive control for switching reference systems: Application to flight control\n
 S. Snyder, *P. Zhao* and N. Hovakimyan\n
  /IFAC-PapersOnLine/, 52(16), pp.718-723, 2019.
@@ -103,26 +110,26 @@ Y. Mao, H. Jafarnejadsani, *P. Zhao*, E. Akyol and N. Hovakimyan\n
  /Proceedings of IEEE 28th International Symposium on Industrial Electronics/, pp. 664-669, 2019
 . [https://ieeexplore.ieee.org/document/8431377 Discrete-time state-feedback switching LPV Control with seperate Lyapunov functions for stability and local performance]\n
 *P. Zhao* and R. Nagamune\n
- /Proceedings of American Control Conference/, pp. 2023–2028, 2018 
+ /Proceedings of American Control Conference/, pp. 2023-2028, 2018 
 . [https://ieeexplore.ieee.org/document/8062573 Optimal switching surface design for switching LPV control and its application to air-fuel ratio control of an automotive engine]\n
 *P. Zhao* and R. Nagamune\n
- /Proceedings of IEEE Conference on Control Technology and Applications (CCTA)/, pp. 898–903, 2017
+ /Proceedings of IEEE Conference on Control Technology and Applications (CCTA)/, pp. 898-903, 2017
 . [https://ieeexplore.ieee.org/document/7170835 Optimal switching surface design for state-feedback switching LPV control]\n
 *P. Zhao* and R. Nagamune \n
- /Proceedings of American Control Conference/, pp. 817–822, 2015
+ /Proceedings of American Control Conference/, pp. 817-822, 2015
 . [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7285330 Robust control of large-scale prototypes for miniaturized optical image stabilizers with product variations]\n
 *P. Zhao*, A. Alizadegan, R. Nagamune and M. Chiao\n
- /Proceedings of SICE Annual Conference/, pp. 925–930, 2015
+ /Proceedings of SICE Annual Conference/, pp. 925-930, 2015
 . [https://ieeexplore.ieee.org/document/7576874 Modeling and robust control of miniaturized magnetically-actuated optical image stabilizers]\n
 A. Alizadegan, *P. Zhao*, R. Nagamune and M. Chiao\n
- /Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics/, pp. 846–851, 2016
+ /Proceedings of IEEE International Conference on Advanced Intelligent Mechatronics/, pp. 846-851, 2016
  
 == Workshop Papers & Extended Abstracts
-. [https://arxiv.org/abs/2209.09991 Optimizing crop management with reinforcement learning and imitation learning]\n
+. [https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2511.pdf Optimizing crop management with reinforcement learning and imitation learning]\n
 R. Tao, *P. Zhao*, J. Wu, N. F. Martin, M. T. Harrison, C. Ferreira, Z. Kalantari, and N. Hovakimyan \n
 /22nd International Conference on Autonomous Agents and Multiagent Systems
-(AAMAS)/, accepted, 2023  
-. [https://scl-icra2021.github.io/papers/SCL-ICRA2021_paper_6.pdf Robustifying reinforcement learning policies with $\mathcal L_1$ adaptive control]\n
+(AAMAS)/, 2023  
+. [https://scl-icra2021github.io/papers/SCL-ICRA2021_paper_6.pdf Robustifying reinforcement learning policies with $\mathcal L_1$ adaptive control]\n
 Y. Cheng\*, *P. Zhao*\*, M. Gandhi, B. Li, E. Theodorou and N. Hovakimyan\n
 ICRA Workshop on Safe Robot Control with Learned Motion and Environment Models, 2021 
 . [https://uav-learning-icra.github.io/2019/build/static/proceedings/theodorou.pdf Socially aware motion planning for a flying robot with model predictive path integral control]\n
