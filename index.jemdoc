@@ -2,7 +2,7 @@
 = Pan Zhao 
 
 ~~~
-{}{img_left}{zhao.jpeg}{alt text}{161}{183}{}
+{}{img_left}{zhao_headshot.jpg}{headshot of Dr.Pan Zhao}{161}{183}{}
 *Pan Zhao* \n
 Assistant Professor \n 
 Director of [https://sites.google.com/view/ascl-ua Autonomous Systems and Control Lab (ASCL)]\n
@@ -12,20 +12,24 @@ Office: 201 7th Avenue, Tom Bevill Building 1103D, Tuscaloosa, AL 35487 \n
 (205) 348-2807\n
 pan.zhao@ua.edu\n 
 
-\[[https://uofi.box.com/v/cv-pan-zhao1 CV]\] \[[https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar]\] \[[https://www.linkedin.com/in/panbrzhao/ LinkedIn]\]\n
+\[[https://alabama.box.com/v/cv-pan-zhao1 CV]\] \[[https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar]\] \[[https://www.linkedin.com/in/panbrzhao/ LinkedIn]\]\n
 ~~~
 
 == About me 
 I am an Assistant Professor in the [https://aem.eng.ua.edu/ Department of Aerospace Engineering and Mechanics] at the University of Alabama, and the director of the [https://sites.google.com/view/ascl-ua Autonomous Systems and Control Lab (ASCL)]. Before joining UA, I was a Postdoctoral Researcher in the [https://mechse.illinois.edu/ Department of Mechanical Science and Engineering] at the [https://illinois.edu/ University of Illinois at Urbana-Champaign], advised by Prof. [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Naira Hovakimyan]. I got my Ph.D. in Mechanical Engineering in 2018 from the [https://www.ubc.ca/ University of British Columbia], advised by Prof. [https://mech.ubc.ca/ryozo-nagamune/ Ryozo Nagamune] and Prof. [https://mech.ubc.ca/mu-chiao/ Mu Chiao].\n\n
 
-My research interests include *control* and *autonomous systems*, and their applications to aerospace, robotics and wind energy systems. Some specific directions that I currently focus on include
-- Data-driven modeling and control 
-- Safe reinforcement learning
-- Robust and adaptive control 
-- Resilient autonomous systems  
-- Applications in urban air mobility, remote sensing, and drone delivery
-- Intelligent agricultural management   
 
+My research interests include *control* and *autonomous systems* with applications to aerospace, robotics and agricultural systems. In particular, I leverage dynamical systems, control theory, and machine learning tools to design and validate control and decision-making algorithms for autonomous/intelligent systems to ensure their safe and efficient operation in challenging scenarios under various uncertainties.  
+~~~
+{}{img_left}{profile.jpg}{Research profile of Dr. Pan Zhao}{}{300}{}
+Some specific directions that I currently focus on include
+- Robust and adaptive control
+- Planning and predictive control under uncertainties
+- Data-driven modeling and control
+- Safe learning-based control and decision making
+- Resilient autonomous systems 
+- Applications in air mobility, aerial robotics, and sustainable agricultural management  
+~~~
 # I received a B.E. and M.E. in 2009 and 2012, respectively, from [https://ev.buaa.edu.cn/ Beihang University], under the supervision of Prof. [http://shi.buaa.edu.cn/wangshaoping/index.htm Shaoping Wang]. I was a visiting student in the [https://all.cs.umass.edu/ Autonomous Learning Laboratory] at the [https://www.umass.edu/ University of Massachusetts Amherst], advised by Prof. [https://people.cs.umass.edu/~pthomas/ Philip S. Thomas]. From 2012 to 2013, I was a modeling & simulation engineer at [http://www.hirain.com/ Hirain Technologies].  #I did an internship at Siemens Corporate Technology, Princeton, NJ, in 2017. During my Ph.D. program, I received the [https://vanier.gc.ca/en/home-accueil.html Vanier Canada Graduate Scholarship]. 
 
 == Education
@@ -33,11 +37,5 @@ Ph.D. in Mechanical Engineering, University of British Columbia, 2018\n
 M.E. in Mechatronics Engineering, Beihang University, 2012\n
 B.E. in Automation, Beihang University, 2009\n
 
-#== Research Interests
-
-
-#Please check [research.html selected projects] for details. 
-
-
 == Opening #{{<font color=red><b>}} Opening {{</b></font>}} 
-I am currently looking for self-motivated Ph.D. students in the fields of Control and Autonomous Systems with starting dates in either Spring or Fall 2024. See our [https://sites.google.com/view/ascl-ua/joining-us?authuser=0 lab website] for details. 
+I am looking for self-motivated graduate students in the fields of Control and Autonomous Systems with a starting date of Fall 2024. See our [https://sites.google.com/view/ascl-ua/joining-us?authuser=0 lab website] for details. 
