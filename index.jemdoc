@@ -5,37 +5,35 @@
 {}{img_left}{zhao_headshot.jpg}{headshot of Dr.Pan Zhao}{161}{183}{}
 *Pan Zhao* \n
 Assistant Professor \n 
-Director of [https://sites.google.com/view/ascl-ua Autonomous Systems and Control Lab (ASCL)]\n
 Department of Aerospace Engineering and Mechanics \n
 University of Alabama  \n
 Office: 201 7th Avenue, Tom Bevill Building 1103D, Tuscaloosa, AL 35487 \n
 (205) 348-2807\n
 pan.zhao@ua.edu\n 
 
-\[[https://alabama.box.com/v/cv-pan-zhao1 CV]\] \[[https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar]\] \[[https://www.linkedin.com/in/panbrzhao/ LinkedIn]\]\n
+\[[https://alabama.box.com/v/cv-pan-zhao1 CV]\] \[[https://scholar.google.com/citations?user=M5Xtd-sAAAAJ&hl=en Google scholar]\] \n
 ~~~
 
 == About me 
-I am an Assistant Professor in the [https://aem.eng.ua.edu/ Department of Aerospace Engineering and Mechanics] at the University of Alabama, and the director of the [https://sites.google.com/view/ascl-ua Autonomous Systems and Control Lab (ASCL)]. Before joining UA, I was a Postdoctoral Researcher in the [https://mechse.illinois.edu/ Department of Mechanical Science and Engineering] at the [https://illinois.edu/ University of Illinois at Urbana-Champaign], advised by Prof. [http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/ Naira Hovakimyan]. I got my Ph.D. in Mechanical Engineering in 2018 from the [https://www.ubc.ca/ University of British Columbia], advised by Prof. [https://mech.ubc.ca/ryozo-nagamune/ Ryozo Nagamune] and Prof. [https://mech.ubc.ca/mu-chiao/ Mu Chiao].\n\n
+I am an Assistant Professor in the [https://aem.eng.ua.edu/ Department of Aerospace Engineering and Mechanics] at the University of Alabama, leading the [https://sites.google.com/view/ascl-ua Controls and Autonomy Lab (CAL)]. Before joining UA, I was a Postdoctoral Researcher in the Department of Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign. \n\n
 
+My research interests include control theory,  autonomous systems, aerial robotics, and applications to aerospace and agriculture. In particular, we develop and test control and decision-making algorithms to ensure the safe and efficient operation of autonomous systems, particularly in challenging and complex environments. 
 
-My research interests include control theory,  autonomous systems, and machine learning with applications to robotics, transportation and agricultural systems. In particular, I leverage dynamical systems, control theory, and machine learning tools to design and validate control and decision-making algorithms for autonomous/intelligent systems to ensure their safe and efficient operation in challenging scenarios under various uncertainties.  
-~~~
-{}{img_left}{profile.jpg}{Research profile of Dr. Pan Zhao}{}{300}{}
-Some specific directions that I currently focus on include
-- Robust and adaptive control
-- Planning and predictive control under uncertainties
-- Data-driven modeling and control
-- Safe learning-based control and decision making
-- Resilient autonomous systems 
-- Applications in transportation, robotics, and sustainable agricultural management  
-~~~
-# I received a B.E. and M.E. in 2009 and 2012, respectively, from [https://ev.buaa.edu.cn/ Beihang University], under the supervision of Prof. [http://shi.buaa.edu.cn/wangshaoping/index.htm Shaoping Wang]. I was a visiting student in the [https://all.cs.umass.edu/ Autonomous Learning Laboratory] at the [https://www.umass.edu/ University of Massachusetts Amherst], advised by Prof. [https://people.cs.umass.edu/~pthomas/ Philip S. Thomas]. From 2012 to 2013, I was a modeling & simulation engineer at [http://www.hirain.com/ Hirain Technologies].  #I did an internship at Siemens Corporate Technology, Princeton, NJ, in 2017. During my Ph.D. program, I received the [https://vanier.gc.ca/en/home-accueil.html Vanier Canada Graduate Scholarship]. 
 
 == Education
 Ph.D. in Mechanical Engineering, University of British Columbia, 2018\n
 M.E. in Mechatronics Engineering, Beihang University, 2012\n
 B.E. in Automation, Beihang University, 2009\n
 
+== News #{{<font color=red><b>}} Opening {{</b></font>}} 
+- 03/2026: I am delighted and grateful to receive the [https://www.nsf.gov/awardsearch/show-award?AWD_ID=2542222 NSF CAREER Award]! My sincere thanks to the DCSD program for their support!
+- 07/2025: I served on an NSF Panel.
+- 06/25/2025: I co-organized and gave a talk for the [https://ecc25.csiefoundation.am/ workshop on Safe Control and Learning in Autonomous Systems at ECC 2025]. 
+- 10/2024: I organized and gave a talk for the [https://mecc2024.a2c2.org/tutorial-sessions/ tutorial session on Safety-Critical Control Under Uncertainties at MECC 2024]. 
+- 06/2024: I served on two NSF panels. 
+- 04/2024: I gave a talk at the [https://mwcgt2024.northwestern.edu/ 2024 Midwest Workshop on Control and Game Theory]. 
+- 02/2024: I served on an NSF panel. 
+- 01/2024: I gave a talk for the University of New Mexico ME department. 
+
 == Opening #{{<font color=red><b>}} Opening {{</b></font>}} 
-I consistently look for self-motivated graduate students in the fields of Control and Autonomous Systems. See our [https://sites.google.com/view/ascl-ua/openings?authuser=0 lab website] for details. 
+I consistently look for self-motivated graduate students in the fields of Control, Autonomy and Aerial Robotics. See our [https://sites.google.com/view/ascl-ua/openings?authuser=0 lab website] for details. 
